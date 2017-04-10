@@ -37,7 +37,7 @@ from termcolor import colored,cprint
 N_DIGITS = 1
 N_DIGITS = 8  # digits in all the display rows
 ROWS = [0,0,0,0,1,1,1,1] 
-ORIENTATION =  [True, False]
+ORIENTATION =  [False, False]
 N_PIXELS = 107 # pixels per digit
 FPS = 5       # frames per second
 
